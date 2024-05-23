@@ -1,12 +1,12 @@
 [package]
-name = "tauri-plugin-tauriv2-plugin-oauth"
-version = "0.0.0"
+name = "tauri-plugin-tauriv2oauth"
+version = "0.0.1"
 authors = [ "You" ]
 description = ""
 edition = "2021"
 rust-version = "1.70"
 exclude = ["/examples", "/webview-dist", "/webview-src", "/node_modules"]
-links = "tauri-plugin-tauriv2-plugin-oauth"
+
 
 [dependencies]
 tauri = { version = "2.0.0-beta.19" }
