@@ -1,6 +1,6 @@
 {
-  "name": "tauri-plugin-tauriv2-plugin-oauth-api",
-  "version": "0.0.0",
+  "name": "tauriv2oauth",
+  "version": "0.0.1",
   "author": "You",
   "description": "",
   "type": "module",
