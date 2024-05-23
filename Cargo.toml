@@ -6,6 +6,7 @@ description = ""
 edition = "2021"
 rust-version = "1.70"
 exclude = ["/examples", "/webview-dist", "/webview-src", "/node_modules"]
+links = "tauri-plugin-tauriv2oauth"  # Add this line
 
 
 [dependencies]
